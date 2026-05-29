@@ -4,7 +4,7 @@
 
 A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.
 
-**Documentation (website aliases):** [estructura.okzgn.com](https://estructura.okzgn.com), [estructura.github.io](https://estructura.github.io)
+**Documentation (website aliases):** [estructura.okzgn.com](https://estructura.okzgn.com), [estructura-js.github.io](https://estructura-js.github.io)
 
 **GitHub (open-source, releases):** [github.com/okzgn/estructura](https://github.com/okzgn/estructura)
 
