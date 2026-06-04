@@ -1,6 +1,6 @@
 ![Estructura Icon](estructura.icon.png)
 
-# Estructura JavaScript Framework Extensions Documentation Website.
+# Estructura JavaScript Framework Documentation Website.
 
 A lightweight dependency-free JavaScript framework that lets you assign functions to be automatically attached to custom or extended data types, based on one or multiple arguments.
 
